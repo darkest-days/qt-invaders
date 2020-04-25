@@ -1,0 +1,11 @@
+#
+.vscode
+qt-invaders
+#
+*.qml?
+*.js?
+#
+*.o
+#
+qrc_*
+.qmake*
