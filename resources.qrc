@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>fonts/LcdSolid-VPzB.ttf</file>
+    <file>images/Invader.png</file>
+    <file>images/Ship.png</file>
+</qresource>
+</RCC>
